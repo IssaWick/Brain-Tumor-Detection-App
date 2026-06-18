@@ -1,0 +1,13 @@
+# Data and models (too large for Git)
+data/
+models/*.h5
+models/*.keras
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+*.egg-info/
