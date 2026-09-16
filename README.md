@@ -17,6 +17,13 @@ pip install -r requirements.txt
 streamlit run app/app.py
 ```
 
+## Run locally
+```bash
+cd Brain-Tumor-Detection-App
+conda activate braintumor
+streamlit run app/app.py
+```
+
 ## Project structure
 - `notebooks/` — training & evaluation notebook
 - `app/` — Streamlit dashboard
